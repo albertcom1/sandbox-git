@@ -6,3 +6,4 @@ kutya
 malac
 eger
 macska
+juh
