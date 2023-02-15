@@ -8,3 +8,4 @@ eger
 macska
 juh
 viz
+vizilo
