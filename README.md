@@ -7,3 +7,4 @@ malac
 eger
 macska
 juh
+viz
