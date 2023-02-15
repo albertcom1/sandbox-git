@@ -5,3 +5,4 @@ sand
 kutya
 malac
 eger
+macska
